@@ -5,7 +5,8 @@
  *
  * @package WordPress
  */
-
+aler(hello world);
+tes
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
